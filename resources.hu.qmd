@@ -1,0 +1,13 @@
+---
+title: "Letölthető anyagok"
+---
+
+::: {.hero-kicker}
+*Az első letölthető anyagaink.*
+:::
+
+
+[Angol nyelvű prezentáció letöltése](https://m2obs.net/downloads/m2obs-introduction.pdf){.btn .btn-primary}
+
+
+
