@@ -1,0 +1,11 @@
+---
+title: "Downloads"
+---
+
+
+::: {.hero-kicker}
+*Onze eerste materialen om te downloaden.*
+:::
+
+
+[Download de presentatie (Engels)](https://m2obs.net/downloads/m2obs-introduction.pdf){.btn .btn-primary}
