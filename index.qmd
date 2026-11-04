@@ -1,0 +1,68 @@
+# One Square Metre Observatory
+
+::: hero-kicker
+*Tackling global environmental challenges, one square metre at a time.*
+:::
+
+Observe nature where you live. Test small changes. Share what you discover.
+
+![](images/presentation-cover.PNG)
+
+## Global problems. Local solutions.
+
+Climate change, biodiversity loss, urban heat and water scarcity are global challenges. But their effects are experienced locally — on balconies, in gardens, schoolyards, public parks and along nature trails.
+
+We want to understand what happens at this very local scale, how it changes over time, and which small interventions make a difference. The One Square Metre Observatory (m²obs) turns a single square metre into a place for observation, experimentation and shared learning.
+
+## What if saving nature started with just one square metre?
+
+m²obs invites everyone to become an urban nature researcher, turning everyday spaces into living laboratories for biodiversity and climate adaptation. From gardens and balconies to rooftops, schoolyards and public spaces, participants can adopt one square metre to observe nature, document environmental changes and test simple ways to make their surroundings greener, cooler and more resilient.
+
+## Observe. Understand. Act. Share.
+
+1.  **Observe nature.** Track temperature, rainfall, vegetation and biodiversity in your square metre.
+2.  **Understand change.** Discover how nature and local climate conditions vary between square metres in your garden, on your roof, along your street or in a nearby park — and across the seasons.
+3.  **Take action.**  Try simple, nature-based interventions and observe how your environment changes over time, one square metre at a time.
+4.  **Share knowledge.** Contribute observations that help residents, researchers and local communities understand environmental change and discover nature-based ways to adapt.
+
+## Questions anyone can explore
+
+### Can trees retain more water?
+
+Monitor the ground around a young tree, compare soil conditions and test suitable water-retention measures.
+
+### Do pollinators find food?
+
+Count flowers and pollinator visits in a garden or park. Compare planted, mown and unmown patches.
+
+### Can greenery cool a place?
+
+Compare surface temperatures over pavement, gravel and planted ground. Explore small nature-based interventions.
+
+### How does rain enter the soil?
+
+Use a simple rain gauge and DIY infiltration test to compare how different surfaces absorb water.
+
+## Small plots, meaningful experiments
+
+A class can adopt a young municipal tree and revisit it through the seasons. A family can leave a square metre of lawn unmown and count flowering plants. Neighbours can compare a paved courtyard with a planted area. School groups can investigate rainfall, water infiltration, temperature and biodiversity.
+
+![Nature observation imagery from the preliminary presentation](images/nature-observation-1.jpeg)
+
+## Citizen science for everyone
+
+Our ambition is to combine accessible observation methods, an easy-to-use digital platform and an open network of researchers and communities. Scientific protocols, transparent data validation and human review are intended to help make observations reliable and reusable, while giving participants a voice in how their contributions are interpreted and shared.
+
+Starting with proposed pilots in The Hague and Budapest, m²obs aims to connect local observations with wider environmental knowledge and small experiments with practical solutions. These pilots and the shared platform are plans under development, not established services.
+
+[**Discover how to participate**](participate.qmd){.btn .btn-primary} [**Download our presentation**](https://m2obs.net/downloads/m2obs-introduction.pdf){.btn .btn-primary}
+
+## Our vision
+
+Anyone can observe a single square metre of our planet. Anyone can change it. Anyone can find out whether that change has made their world a better place.
+
+One square metre at a time, you can change your front yard, your rooftop, a park, or a plot of land.
+
+What we observe can change what we understand. What we understand can change what we do. What we do together can change our neighbourhoods. And our neighbourhoods can change our cities.
+
+One square metre at a time, we can change the world.

@@ -1,0 +1,18 @@
+---
+title: "Resources"
+---
+
+::: {.hero-kicker}
+*Our first materials for download.*
+:::
+
+[Download our presentation](https://m2obs.net/downloads/m2obs-introduction.pdf){.btn .btn-primary}
+
+
+## What you can do on one square meter? 
+
+- [You Only Need 1m² (10ft²) To Grow a Huge Amount of Food](https://www.youtube.com/watch?v=FlpBKhMPmhs)
+
+- [Green roofs](https://en.wikipedia.org/wiki/Green_roof)
+
+- [Using Green Roofs to Reduce Heat Islands](https://www.epa.gov/heatislands/using-green-roofs-reduce-heat-islands)
