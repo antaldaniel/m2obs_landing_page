@@ -48,3 +48,11 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Quarto artefacts
+.quarto/
+
+# Rendered website
+_site/
+
+
