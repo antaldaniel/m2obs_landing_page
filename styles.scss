@@ -1,0 +1,68 @@
+/*-- scss:defaults --*/
+$primary: #00843A;
+$body-color: #213a35;
+$body-bg: #fbfcf9;
+$font-family-sans-serif: system-ui, -apple-system, "Segoe UI", sans-serif;
+
+/*-- scss:rules --*/
+.navbar { border-bottom: 1px solid #BAC615; }
+.navbar-brand { font-weight: 800; letter-spacing: .02em; }
+main.content { max-width: 900px; margin: 0 auto; padding: 4rem 1.5rem; }
+h1 { font-weight: 750; letter-spacing: -.035em; font-size: clamp(2.4rem, 6vw, 4rem); }
+h2 { margin-top: 2.5rem; }
+.lead { font-size: 1.3rem; line-height: 1.65; color: #47655d; }
+.hero-kicker { text-transform: uppercase; letter-spacing: .16em; font-size: .85rem; font-weight: 750; color: #087c67; }
+.callout-note { border-left-color: #00843A !important; }
+a { text-underline-offset: .2em; }
+.lead {
+  font-size: clamp(1.25rem, 2.5vw, 1.5rem);
+  line-height: 1.6;
+  font-weight: 400;
+  color: #47655d;
+  max-width: 760px;
+  margin-bottom: 2rem;
+}
+/* Action buttons */
+.btn-m2obs {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: .5rem;
+  padding: .7rem 1.25rem;
+  border: 1.5px solid transparent;
+  border-radius: .45rem;
+  font-size: .95rem;
+  font-weight: 650;
+  line-height: 1.4;
+  text-decoration: none;
+  transition: background-color .15s, border-color .15s, color .15s;
+}
+
+.btn-m2obs-primary {
+  background-color: #00843A;
+  color: #fff;
+}
+
+.btn-m2obs-primary:hover {
+  background-color: #006c30;
+  color: #fff;
+}
+
+.btn-m2obs-secondary {
+  background-color: transparent;
+  border-color: #00843A;
+  color: #00843A;
+}
+
+.btn-m2obs-secondary:hover {
+  background-color: #eaf4ec;
+  color: #006c30;
+}
+
+/* Button groups */
+.m2obs-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .75rem;
+  margin: 1.5rem 0 2rem;
+}

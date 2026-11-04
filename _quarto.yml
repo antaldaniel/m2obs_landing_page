@@ -1,0 +1,64 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "m²obs"
+  description: >-
+    The One Square Metre Observatory (m²obs) is a citizen science
+    initiative exploring urban biodiversity and climate adaptation,
+    one square metre at a time.
+  site-url: https://m2obs.net/
+  favicon: images/favicon.png
+  navbar:
+    title: "m²obs"
+    left:
+      - href: index.qmd
+      - href: participate.qmd
+      - href: resources.qmd
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/company/m2obs/
+        aria-label: "m²obs on LinkedIn"
+        target: _blank
+      - icon: facebook
+        href: https://www.facebook.com/m2obs/
+        aria-label: "m²obs on Facebook"
+        target: _blank
+  page-footer:
+    center: "m²obs · One Square Metre Observatory"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: false
+    page-layout: full
+
+lang: en
+
+babelquarto:
+  languagelinks: navbar
+  languagecodes:
+    - name: en
+      text: English
+    - name: hu
+      text: Magyar
+    - name: nl
+      text: Nederlands
+  mainlanguage: en
+  languages: [hu, nl]
+
+title-hu: "m²obs — Egy négyzetméteres obszervatórium"
+title-nl: "m²obs — Observatorium van één vierkante meter"
+description-hu: >-
+  Az Egy Négyzetméter Obszervatórium (m²obs) közösségi tudományos
+  kezdeményezés, amely négyzetméterről négyzetméterre vizsgálja a 
+  biodiverzitást és a klímaváltozáshoz való alkalmazkodásunkat.
+
+description-nl: >-
+  Het Observatorium voor één vierkante meter (m²obs) is een
+  burgerwetenschappelijk initiatief dat stedelijke biodiversiteit
+  en klimaatadaptatie onderzoekt, vierkante meter voor vierkante meter.
+
